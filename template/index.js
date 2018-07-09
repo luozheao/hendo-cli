@@ -19,7 +19,7 @@ var templateCss = _utils.getTemplate('ox-table.create.css');
 var sourceVue = templateVue({
     name:'luojie',
     fileName:'ox-table',
-    style:'css'
+    style:'css', 
 });
 
 

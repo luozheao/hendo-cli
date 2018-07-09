@@ -6,7 +6,9 @@ module.exports={
 		tableData:[
 			{
 				a:'a',
-				b:1 
+				b:1,
+				c:3 ,
+				d:110000
 			}
 		]
 	}

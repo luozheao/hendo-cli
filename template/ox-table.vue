@@ -1,6 +1,7 @@
 <template>
      <div>
        luojie
+        {{tableData[4]}}
     </div>
 </template>
 

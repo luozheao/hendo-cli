@@ -5,7 +5,8 @@ export default {
     ],
     data () {
         return { 
-           tableData:[{"a":"a","b":1}],  
+           tableData:[{"a":"a","b":1,"c":3,"d":110000}], 
+           name:'luojie '
         }
     },
     methods: {
